@@ -15,7 +15,7 @@
 ---
 
 ### **Features**:
-### Currently seraching of song supports following  :
+### Currently seraching of song supports following queries  :
 - **Song Name**
 - **Album Name**
 - **Playlist Name**

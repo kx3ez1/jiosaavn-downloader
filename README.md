@@ -10,7 +10,7 @@
 [![APM](https://img.shields.io/apm/l/vim-mode?color=orange&style=plastic)](https://github.com/Bharat-Bharat/jiosaavn/blob/master/LICENSE)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/requests?style=plastic)](https://pypi.org/project/requests/)
 <hr>
-<p>NOTE: You don't need to have JioSaavn link of the song in order to fetch the song details, you can directly search songs by their name. Fetching Songs/Albums/Playlists .</p>
+<p>NOTE: You don't need to have JioSaavn link of the song in order to fetch the song details, you can directly search songs by their name. Fetching Songs/Albums/Playlists/Artists .</p>
 
 ---
 

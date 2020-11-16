@@ -1,5 +1,5 @@
 # jiosaavn-downloader [Unofficial]
-<img src="https://user-images.githubusercontent.com/52038340/93705931-42c5eb80-fb3f-11ea-8401-9fc339d949c7.png">
+<img src="https://user-images.githubusercontent.com/52038340/93705931-42c5eb80-fb3f-11ea-8401-9fc339d949c7.png" height="25%" width="55%">
 <h3>Show some ❤️ and ⭐ the repo to support the project</h3>
 
 
@@ -19,5 +19,7 @@
 - **Song Name**
 - **Album Name**
 - **Playlist Name**
+- **Artist Name**
+
 ### Faster Downloads :
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200302215050/woring_1_geeks.jpg">

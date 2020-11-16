@@ -4,10 +4,10 @@
 
 
 
-[![GitHub stars](https://img.shields.io/github/stars/bharat-bharat/jiosaavn?style=social&label=Star)](https://github.com/Bharat-Bharat/jiosaavn)
+[![GitHub stars](https://img.shields.io/github/stars/bharat-bharat/jiosaavn?style=social&label=Star)](https://github.com/NagireddyBharathReddy/jiosaavn-downloader-exe/)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/bharat-bharat)
-[![APM](https://img.shields.io/apm/l/vim-mode?color=orange&style=plastic)](https://github.com/Bharat-Bharat/jiosaavn/blob/master/LICENSE)
+[![APM](https://img.shields.io/apm/l/vim-mode?color=orange&style=plastic)](https://github.com/NagireddyBharathReddy/jiosaavn-downloader-exe/blob/master/LICENSE)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/requests?style=plastic)](https://pypi.org/project/requests/)
 <hr>
 <p>NOTE: You don't need to have JioSaavn link of the song in order to fetch the song details, you can directly search songs by their name. Fetching Songs/Albums/Playlists/Artists .</p>
